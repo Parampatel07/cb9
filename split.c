@@ -4,18 +4,13 @@
 #include<stdio.h>
 void main()
 {
-    int number,first,second;
+    int number,first,second ;
     //declartion of variable 
-
     printf("Enter your number");
     scanf("%d",&number);
-
     // number=56;
     // +,-,*,/,%
-
     first=number/10;
-
     second=number%10;
-
     printf("First is %d and second is %d",first,second);
 }

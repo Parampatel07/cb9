@@ -1,4 +1,4 @@
-// write a programe to find area of triagnle 1
+// write a programe to find area of triagnle 1.
 #include <stdio.h>
 void main()
 {
