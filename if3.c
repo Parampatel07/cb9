@@ -3,8 +3,7 @@
 void main()
 {
     int  number;
-
-    printf("Enter value of number");
+        printf("Enter value of number");
     scanf("%d",&number);
 
     printf("The Value of number is %d",number);

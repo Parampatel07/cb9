@@ -2,4 +2,8 @@ if esle
 --------------------------------------
 --> write a programe to find whether the given year is millinum year or not 
 
---> write a programe to findout which triagnle is greater accpet height and base from user 
+--> write a programe to findout which triagnle is greater accpet height and base from user
+
+--> write a programe to print number in words only 2 digit number
+10-> one zero
+56-> five six
