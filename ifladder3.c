@@ -7,14 +7,12 @@ void main()
     scanf("%d", &num1);
     printf("Enter your num2");
     scanf("%d", &num2);
-
     printf("Select any one");
     printf("\n1 for Addition");
     printf("\n2 for Subtraction");
     printf("\n3 for Division");
     printf("\n4 for mulitipication");
     scanf("%d", &choice);
-
     if (choice == 1)
     {
         answer = num1 + num2;
