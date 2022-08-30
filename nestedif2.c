@@ -13,7 +13,7 @@ void main()
 
     if (num1 == num2 && num2 == num3)
     {
-        printf("All are same");
+        printf("All are same") ; 
     }
     else
     {

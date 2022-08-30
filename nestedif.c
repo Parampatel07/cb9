@@ -15,5 +15,5 @@ void main()
     {
         printf("\nit is not a vowel");
     }
-    printf("\nGoodbyee");
+    printf("\nGoodbyee") ; 
 }
