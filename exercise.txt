@@ -30,7 +30,6 @@ also calculate 5% percentage energy charge on total bill amount & display total 
 https://in.pinterest.com/pin/81698180718875314/
 
 
-
 while
 ---------------------------------
 1] write a program to print odd number ..4000
