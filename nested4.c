@@ -1,35 +1,18 @@
 #include <stdio.h>
 void main()
-// https://i1.faceprep.in/fp/articles/img/46684_1580817324.png
 {
-    int space = 0;
-    printf("\t*");
-    printf("\n");
-    for (space = 0; space < 5; space++)
+    int space, count,flash,minus=8;
+    for(flash=1;flash<10;flash++)
     {
-        printf(" ");
+        for (space = 0; space < minus; space++)
+        {
+            printf(" ");
+        }
+        for (count = 0; count < flash; count++)
+        {
+            printf("* ");
+        }
+        printf("\n");
+        minus--;
     }
-    printf("*");
-    for (space = 0; space < 5; space++)
-    {
-        printf(" ");
-    }
-    printf("*");
-    printf("\n");
-    for (space = 0; space < 3; space++)
-    {
-        printf(" ");
-    }
-    printf("*");
-    for (space = 0; space < 4; space++)
-    {
-        printf(" ");
-    }
-    printf("*");
- 
-    for (space = 0; space < 4; space++)
-    {
-        printf(" ");
-    }
-    printf("*");
 }
