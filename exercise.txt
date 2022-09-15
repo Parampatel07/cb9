@@ -49,3 +49,9 @@ write a program to print following series
 
 write a program to print following series 
 1, 6, 15, 28, 45, 66, 91, 120, 153, 190, 231 .. 10000
+
+array
+-----------------------------------
+1]write a programe to your name in reverse 
+
+2]write a programe to perform sorting in 5 number array
