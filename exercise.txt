@@ -55,3 +55,11 @@ array
 1]write a programe to your name in reverse 
 
 2]write a programe to perform sorting in 5 number array
+
+function
+---------------------------------------
+1]write a programe to peform division using function
+
+1]write a programe to peform modlus using function
+
+2]write a function that print "my name is name" 100times
